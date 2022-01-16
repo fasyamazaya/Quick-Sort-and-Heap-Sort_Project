@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1642342330 source:d:\- kuliah\semester 3 _ 2122 ganjil\aka = analisis kompleksitas algoritma\tubes\main.cpp
+	"quicksort.h"
+	"heapsort.h"
+	"bubblesort.h"
+	<iostream>
+
+1642244666 d:\- kuliah\semester 3 _ 2122 ganjil\aka = analisis kompleksitas algoritma\tubes\tubes.h
+	<iostream>
+	<vector>
+	<queue>
+
+1642254930 source:d:\- kuliah\semester 3 _ 2122 ganjil\aka = analisis kompleksitas algoritma\tubes\tubes.cpp
+	"tubes.h"
+	<bits/stdc++.h>
+
+1642309355 source:d:\- kuliah\semester 3 _ 2122 ganjil\aka = analisis kompleksitas algoritma\tubes\quicksort.cpp
+	"quicksort.h"
+	<bits/stdc++.h>
+
+1642244666 d:\- kuliah\semester 3 _ 2122 ganjil\aka = analisis kompleksitas algoritma\tubes\quicksort.h
+	<iostream>
+	<vector>
+	<queue>
+
+1642325457 source:d:\- kuliah\semester 3 _ 2122 ganjil\aka = analisis kompleksitas algoritma\tubes\heapsort.cpp
+	"heapsort.h"
+	<iostream>
+
+1642325457 d:\- kuliah\semester 3 _ 2122 ganjil\aka = analisis kompleksitas algoritma\tubes\heapsort.h
+	<iostream>
+
+1642341432 d:\- kuliah\semester 3 _ 2122 ganjil\aka = analisis kompleksitas algoritma\tubes\bubblesort.h
+	<bits/stdc++.h>
+
+1642341449 source:d:\- kuliah\semester 3 _ 2122 ganjil\aka = analisis kompleksitas algoritma\tubes\bubblesort.cpp
+	"bubblesort.h"
+	<bits/stdc++.h>
+
